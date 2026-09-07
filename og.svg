@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs>
+<linearGradient id="l" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#9fe6a0"/><stop offset="1" stop-color="#c3aef5"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="630" fill="#0d1013"/>
+<rect x="0" y="0" width="1200" height="6" fill="url(#l)"/>
+<g opacity="0.16" stroke="#9fe6a0" fill="none" stroke-width="1.5">
+<circle cx="980" cy="330" r="70"/><circle cx="980" cy="330" r="130"/><circle cx="980" cy="330" r="190"/>
+<line x1="790" y1="330" x2="1170" y2="330"/><line x1="980" y1="140" x2="980" y2="520"/>
+</g>
+<path d="M980 330 L980 200 A130 130 0 0 1 1092 265 Z" fill="#9fe6a0" opacity="0.30"/>
+<circle cx="980" cy="330" r="9" fill="#c3aef5"/>
+<text x="80" y="180" font-family="Georgia, serif" font-size="104" font-weight="700" fill="#e4e9e8">Vigie</text>
+<text x="80" y="252" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#9fe6a0" letter-spacing="1">finance sans conscience</text>
+<text x="80" y="296" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#9fe6a0" letter-spacing="1">n&#8217;est que ruine de l&#8217;humanit&#233;</text>
+<text x="80" y="392" font-family="Helvetica, Arial, sans-serif" font-size="23" fill="#a8b3b2">34 dossiers &#183; qui d&#233;cide, qui paie, qui r&#233;pond</text>
+<text x="80" y="432" font-family="Helvetica, Arial, sans-serif" font-size="23" fill="#a8b3b2">Une enqu&#234;te sur l&#8217;imputabilit&#233; en finance</text>
+<rect x="80" y="500" width="360" height="2" fill="#c3aef5" opacity="0.6"/>
+<text x="80" y="546" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#7c8a89">ouaisfieu.github.io/finance</text>
+</svg>

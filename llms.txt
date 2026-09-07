@@ -1,0 +1,87 @@
+# Vigie
+
+> finance sans conscience n’est que ruine de l’humanité
+
+Trente-quatre dossiers sur la finance contemporaine : non pas une machine hors de contrôle, mais un instrument de contrôle sans personne pour en répondre. Chiffres datés, sources croisées, échelle d’imputabilité.
+
+## Thèse
+
+La critique habituelle affirme que la finance a échappé au contrôle politique. Ce site soutient l'inverse : depuis 2022, les mêmes instruments (réserves de change, messagerie interbancaire, licences d'exportation, droits de douane) sont employés délibérément comme armes par des États. La finance n'est pas hors de contrôle, elle est devenue le contrôle. Le déficit n'est pas un déficit d'autorité mais un déficit d'imputabilité : personne, dans la chaîne, n'est en position de répondre.
+
+## Dispositif éditorial
+
+Chaque dossier porte une mention sur une échelle en quatre degrés — imputable, diluée, déléguée, sans répondant — qui indique qui décide, qui paie et qui répond. Cette échelle ne note pas la moralité : elle constate l'existence ou l'absence d'un lieu où demander des comptes.
+
+## Dossiers
+
+### I. La conscience
+
+- [01. Ce que Rabelais a réellement écrit](https://ouaisfieu.github.io/finance/dossiers/rabelais-et-la-finance.html) — La phrase de 1532 ne condamne pas le savoir : elle exige qu’il ait un répondant. Transposée à la finance, elle cesse d’être un ornement moral. (imputabilité : imputable)
+- [02. La limite, chez Aristote](https://ouaisfieu.github.io/finance/dossiers/oikonomia-et-chrematistique.html) — Aristote ne condamne pas la richesse mais l’activité sans terme. La distinction reste le meilleur outil disponible — à condition de voir ce qu’elle masque. (imputabilité : imputable)
+- [03. Le troc n’a jamais existé](https://ouaisfieu.github.io/finance/dossiers/le-mythe-du-troc.html) — Aucune économie de troc généralisé n’a jamais été observée. La monnaie naît de la dette, du temple et de l’impôt — donc du pouvoir. (imputabilité : diluée)
+- [04. Le désencastrement, et ce que Polanyi n’a pas dit](https://ouaisfieu.github.io/finance/dossiers/le-desencastrement.html) — Le marché autorégulateur est une construction politique, pas un état de nature. Mais Polanyi lui-même tenait le désencastrement complet pour impossible. (imputabilité : imputable)
+
+### II. La machine
+
+- [05. Où passe la frontière de la production](https://ouaisfieu.github.io/finance/dossiers/la-frontiere-de-la-production.html) — Depuis les années 1970, toute activité qui obtient un prix est comptée comme productive. La rente a disparu des comptes nationaux — pas de l’économie. (imputabilité : déléguée)
+- [06. La doctrine de 1970 et ce qu’elle suppose](https://ouaisfieu.github.io/finance/dossiers/la-doctrine-friedman.html) — La primauté actionnariale repose sur une hypothèse rarement discutée : que les objectifs sociaux et le profit sont séparables. Ils ne le sont pas. (imputabilité : déléguée)
+- [07. Mille milliards de dollars rendus aux actionnaires](https://ouaisfieu.github.io/finance/dossiers/les-rachats-d-actions.html) — Les rachats d’actions ne détruisent rien par eux-mêmes. Ils rendent visible un arbitrage que rien n’oblige à justifier. (imputabilité : diluée)
+- [08. La liquidité qui s’évapore](https://ouaisfieu.github.io/finance/dossiers/la-vitesse.html) — La liquidité algorithmique est réelle et bon marché. Elle est aussi conditionnelle : elle se retire au moment précis où elle serait utile. (imputabilité : diluée)
+- [09. Ce que mesure un montant notionnel](https://ouaisfieu.github.io/finance/dossiers/les-produits-derives.html) — Les montants notionnels spectaculaires ne mesurent aucun risque. Le vrai déplacement est ailleurs : hors des banques, dans le crédit privé. (imputabilité : déléguée)
+
+### III. Le gouvernement des grands nombres
+
+- [10. Trente-trois mille milliards, zéro assemblée](https://ouaisfieu.github.io/finance/dossiers/les-trois-gestionnaires.html) — Trois sociétés gèrent l’équivalent de près du tiers du produit mondial et votent dans des milliers d’entreprises pour le compte d’épargnants qui l’ignorent. (imputabilité : déléguée)
+- [11. Un indice est une norme](https://ouaisfieu.github.io/finance/dossiers/l-indice-comme-legislateur.html) — Entrer ou sortir d’un indice déplace des dizaines de milliards. La décision appartient à des comités privés dont les critères ne se discutent nulle part. (imputabilité : déléguée)
+- [12. Trois agences, et la note qui devient une contrainte](https://ouaisfieu.github.io/finance/dossiers/les-agences-de-notation.html) — Les agences émettent juridiquement des opinions. Ces opinions sont inscrites dans des règlements et des contrats qui les rendent contraignantes. (imputabilité : diluée)
+- [13. Quand la norme comptable remplace la loi](https://ouaisfieu.github.io/finance/dossiers/la-gouvernance-par-les-nombres.html) — Les règles comptables qui déterminent ce qu’une entreprise doit publier sont élaborées par une fondation privée. Supiot avait nommé le mécanisme. (imputabilité : déléguée)
+- [14. La neutralité qui n’en est pas une](https://ouaisfieu.github.io/finance/dossiers/la-banque-centrale-et-le-marche.html) — Calquer ses achats sur les marchés n’est pas neutre quand les marchés sont pondérés vers le carbone. Et l’indépendance des banques centrales est attaquée frontalement. (imputabilité : imputable)
+
+### IV. L’arme
+
+- [15. Les nœuds du réseau sont des armes](https://ouaisfieu.github.io/finance/dossiers/l-interdependance-retournee.html) — Farrell et Newman l’ont formalisé : qui contrôle un nœud du réseau économique mondial peut surveiller et exclure. L’intégration devient une vulnérabilité. (imputabilité : sans répondant)
+- [16. L’arme économique a une date de naissance](https://ouaisfieu.github.io/finance/dossiers/l-arme-economique-1914.html) — Mulder date des blocus de la Grande Guerre l’institutionnalisation des sanctions. Conçues pour éviter la guerre, elles ont été modelées sur elle. (imputabilité : imputable)
+- [17. Ce que subissent ceux qui n’ont pas décidé](https://ouaisfieu.github.io/finance/dossiers/les-sanctions-et-les-civils.html) — Les sanctions dites ciblées atteignent les populations par la sur-conformité des banques. Les effets sont documentés ; les recours n’existent pas. (imputabilité : sans répondant)
+- [18. Cent quatre-vingt-cinq milliards, à Bruxelles](https://ouaisfieu.github.io/finance/dossiers/les-avoirs-geles.html) — 185 milliards d’euros de réserves russes sont déposés dans une institution bruxelloise. La Belgique bloque leur mobilisation, et elle a de bonnes raisons. (imputabilité : diluée)
+- [19. Une cour a dit non](https://ouaisfieu.github.io/finance/dossiers/les-tarifs-et-la-loi.html) — Le 20 février 2026, la Cour suprême invalide des droits de douane décidés seuls. C’est le seul cas récent où un instrument économique a rencontré une limite. (imputabilité : imputable)
+
+### V. La ruine, mesurée
+
+- [20. Un stade de football contre la moitié de l’humanité](https://ouaisfieu.github.io/finance/dossiers/la-concentration.html) — Les 0,001 % les plus riches détiennent trois fois le patrimoine de la moitié la plus pauvre. L’inégalité a changé de nature, pas seulement de degré. (imputabilité : diluée)
+- [21. Neuf cent six milliards, et l’expansion qui accélère](https://ouaisfieu.github.io/finance/dossiers/le-financement-du-chaos.html) — Les banques ont financé les énergies fossiles à hauteur de 906 milliards de dollars en 2025. Le chiffre neuf n’est pas là : c’est l’expansion, en hausse de 27 %. (imputabilité : imputable)
+- [22. Des actifs qui n’échouent pas tout seuls](https://ouaisfieu.github.io/finance/dossiers/la-bulle-carbone.html) — Un actif fossile ne perd sa valeur que si une décision publique intervient. L’expression « actif échoué » masque exactement ce qui est en jeu. (imputabilité : diluée)
+- [23. Cent six milliards de tonnes](https://ouaisfieu.github.io/finance/dossiers/le-decouplage-introuvable.html) — Aucun découplage absolu, mondial et suffisamment rapide n’a été observé. La circularité recule au lieu de progresser. (imputabilité : sans répondant)
+- [24. Trois cent cinquante mille milliards](https://ouaisfieu.github.io/finance/dossiers/la-dette.html) — La dette mondiale dépasse 350 000 milliards de dollars. Ce n’est pas un problème en soi : c’est la question de savoir qui, à l’autre bout, détient la créance. (imputabilité : imputable)
+
+### VI. Les promesses
+
+- [25. La seule imputabilité sortante jamais instituée](https://ouaisfieu.github.io/finance/dossiers/la-double-materialite.html) — Obliger une entreprise à publier ce qu’elle fait au monde, et pas seulement ce que le monde lui fait, était une innovation juridique réelle. (imputabilité : imputable)
+- [26. Ce que l’Omnibus a retiré](https://ouaisfieu.github.io/finance/dossiers/l-omnibus.html) — Publiée le 26 février 2026, la directive Omnibus retire 80 % des entreprises du champ, supprime les plans de transition et abandonne la responsabilité civile. (imputabilité : imputable)
+- [27. Ce qu’une étiquette ne peut pas faire](https://ouaisfieu.github.io/finance/dossiers/sfdr-et-l-etiquette.html) — Un règlement de transparence a été utilisé comme label. La réforme en cours crée trois catégories — et laisse une porte ouverte sur l’expansion fossile. (imputabilité : déléguée)
+- [28. L’expérience du volontariat a été menée](https://ouaisfieu.github.io/finance/dossiers/la-fin-des-alliances.html) — Plus de 140 banques, 74 000 milliards de dollars d’actifs, et une dissolution en dix mois. Le résultat est acquis : un engagement sans instance ne tient pas. (imputabilité : sans répondant)
+
+### VII. Le répondant
+
+- [29. Le classement que personne n’est obligé de lire](https://ouaisfieu.github.io/finance/dossiers/la-banque-que-l-on-choisit.html) — Financité et FairFin notent les politiques d’investissement des banques belges. En 2026, KBC, BNP Paribas et Belfius réinvestissent dans l’arme nucléaire. (imputabilité : imputable)
+- [30. Ce que la finance solidaire prouve, et ce qu’elle ne peut pas](https://ouaisfieu.github.io/finance/dossiers/la-finance-solidaire.html) — Les banques éthiques prouvent qu’un autre modèle fonctionne. L’échec de NewB montre ce que coûte l’accès au métier bancaire. (imputabilité : imputable)
+- [31. Trois monnaies, trois répondants](https://ouaisfieu.github.io/finance/dossiers/la-monnaie-que-l-on-fait.html) — Une monnaie locale bruxelloise, un euro numérique en préparation et des jetons stables privés : trois réponses à la même question, trois répondants différents. (imputabilité : diluée)
+- [32. Ce que le sol démontre](https://ouaisfieu.github.io/finance/dossiers/les-communs.html) — Le Community Land Trust bruxellois retire le sol du marché par une clause de revente. La démonstration est juridique, pas morale. (imputabilité : imputable)
+- [33. Le sable dans les rouages, cinquante ans après](https://ouaisfieu.github.io/finance/dossiers/taxer-le-mouvement.html) — La taxe sur les transactions financières et l’impôt plancher sur les grandes fortunes butent sur le même obstacle : l’assiette, pas le principe. (imputabilité : imputable)
+- [34. Verdict](https://ouaisfieu.github.io/finance/dossiers/verdict.html) — Le déficit n’est pas un déficit de contrôle : c’est un déficit d’imputabilité. Ce que ce site soutient, ce qui le ferait changer d’avis. (imputabilité : imputable)
+
+## Pages transversales
+
+- [Sommaire](https://ouaisfieu.github.io/finance/sommaire.html)
+- [Chronologie](https://ouaisfieu.github.io/finance/chronologie.html)
+- [Chiffres](https://ouaisfieu.github.io/finance/chiffres.html)
+- [Lexique](https://ouaisfieu.github.io/finance/lexique.html)
+- [Sources](https://ouaisfieu.github.io/finance/sources.html)
+- [Méthode et limites](https://ouaisfieu.github.io/finance/methode.html)
+
+## Documents sources
+
+Le corpus de départ est déposé dans le dossier /download du dépôt : https://github.com/ouaisfieu/finance/tree/main/download
+
+## Auteur
+
+Textes signés Vigie (nom de plume), rédigés avec l'assistance de Claude (Anthropic). Vérification, choix éditoriaux et publication : l'éditeur du dépôt. Dernière mise à jour : 7 septembre 2026.
